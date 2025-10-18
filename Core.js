@@ -873,7 +873,7 @@ function dbg(...args) {
 // end include: runtime_debug.js
 // === Body ===
 var ASM_CONSTS = {
-  8916580: $0 => {
+  8917220: $0 => {
     alert(UTF8ToString($0));
   }
 };
